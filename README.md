@@ -1,5 +1,7 @@
 # Space-Shapes
 
+How to use : pull the repo and run the SpaceShape.java file inside an IDE
+
 ![GUI](/Images/GUI.png)
 
 This project animates a variety of different shapes in a bounding box space.
